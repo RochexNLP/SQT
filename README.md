@@ -1,4 +1,4 @@
-# SQT
+# LQ-TOD
 
 This repository is for the EMNLP 2024 conference under review paper
 
